@@ -15,6 +15,6 @@
 CTR реклманой кампании 916:
 ![реклама 2](https://github.com/belladzhu/statistic/assets/101130608/d051727b-4418-442a-89f6-747a802e80e9)
 Распределение CPC:
-![реклама 3](https://github.com/belladzhu/statistic/assets/101130608/111a8b8b-5347-41ba-86e1-7fc6fe0ad0e6)
+![реклама 3](https://github.com/belladzhu/statistic/assets/101130608/111a8b8b-5347-41ba-86e1-7fc6fe0ad0e6) \
 CPC с разбивкой по полу пользователей:
 ![реклама 4](https://github.com/belladzhu/statistic/assets/101130608/19ceda51-0d4f-458b-9f35-365fcc3f29f8)
