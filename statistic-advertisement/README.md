@@ -9,7 +9,7 @@
 6. Визуализировать CPC с разбивкой по полу пользователей, которым были показаны объявления.
 7. Посчитать конверсию из клика в покупку.
 
-## Результаты анализа находятся в [файле]()
+## Результаты анализа находятся в [файле](https://github.com/belladzhu/statistic/blob/main/statistic-advertisement/metrics-advertisement.ipynb)
 Распределение числа показов реклам:
 ![реклама 1](https://github.com/belladzhu/statistic/assets/101130608/e37b1b21-447b-48fb-90fb-5c96e907a8c3)
 CTR реклманой кампании 916:
