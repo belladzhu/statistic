@@ -10,9 +10,9 @@
 7. Визуализировать динамику изменения объема мировых продаж (Global_Sales) по годам для игр Nintendo следующих жанров: Fighting, Simulation, Platform, Racing, Sports. Вычислить в какие моменты времени было продано больше всего игр жанра Sports
 
 ## Результат анализа находится в [файле](https://github.com/belladzhu/statistic/blob/main/statistic-games/games.ipynb)
-График распределения количества выпущенных игр по годам:
-![геймс 1](https://github.com/belladzhu/statistic/assets/101130608/a248643c-c9b5-4972-992a-63d05388e4ee)
-Боксплот продаж Nintendo в Японии по жанрам:
+График распределения количества выпущенных игр по годам: \
+![геймс 1](https://github.com/belladzhu/statistic/assets/101130608/a248643c-c9b5-4972-992a-63d05388e4ee) \
+Боксплот продаж Nintendo в Японии по жанрам: \
 ![геймс 2](https://github.com/belladzhu/statistic/assets/101130608/c90a78ae-3513-4657-9076-1a16a82240fb)
 Динамика изменения объема мировых продаж по годам для игр Nintendo по жанрам:
 ![геймс 3](https://github.com/belladzhu/statistic/assets/101130608/088a1b57-6459-47b5-a3ad-1ea78b2a199b)
